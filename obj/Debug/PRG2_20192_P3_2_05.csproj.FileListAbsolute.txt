@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\bin\Debug\PRG2_20192_P3_2_05.exe.config
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\bin\Debug\PRG2_20192_P3_2_05.exe
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\bin\Debug\PRG2_20192_P3_2_05.pdb
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\obj\Debug\PRG2_20192_P3_2_05.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\obj\Debug\PRG2_20192_P3_2_05.Child_Form.resources
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\obj\Debug\PRG2_20192_P3_2_05.Form1.resources
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\obj\Debug\PRG2_20192_P3_2_05.Properties.Resources.resources
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\obj\Debug\PRG2_20192_P3_2_05.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\obj\Debug\PRG2_20192_P3_2_05.exe
+C:\Users\User\source\repos\PRG2_20192_P3_2_05\obj\Debug\PRG2_20192_P3_2_05.pdb
